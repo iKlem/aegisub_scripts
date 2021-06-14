@@ -7,7 +7,7 @@ If you want to contribute or update scripts you are free to open a Pull Request.
 ## Scripts
 ### lowercase_firstletter
 - Author : [Clément "iKlem" DELALANDE](https://github.com/iKlem)
-- Version : 0.4.0
+- Version : 0.4.1
 - Aegisub version made for : 3.2.2
 - Description :
   Put to lower case the first letter of lines (since there's no upper case in japanese).
